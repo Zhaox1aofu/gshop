@@ -18,4 +18,16 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+调用后端接口进行数据展示，因为后端接口的商家图片链接失效了，所以图片加载不出来
+
+![](src/common/imgs/imgs/img.png)
+
+商家细节页面，用到better-scroll优化滚动效果
+
+![](src/common/imgs/imgs/img_2.png)
+![](src/common/imgs/imgs/img_3.png)
+
+登录方式可以为手机验证码、用户名
+
+![](src/common/imgs/imgs/img_4.png)
+![](src/common/imgs/imgs/img_1.png)
